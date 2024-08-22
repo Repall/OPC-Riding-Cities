@@ -1,4 +1,4 @@
-# Formation Développeur d'application - JavaScript React
+# Formation Développeur d'application - HTML
 
 ## Projet 1 : Riding Cities - Premiers pas sur le langage HTML
 
